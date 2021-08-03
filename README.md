@@ -5,11 +5,14 @@
 ---------------------------------------------------------------------------------------------------
 
 We will use Yolov5 to train an object detect model.
+
 Please refer to https://github.com/ultralytics/yolov5.
+
 The sources of datasets and classes are show below. 
 
 <Data source>
 —————————————
+
 [facemask]
 
 https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format
