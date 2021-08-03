@@ -35,6 +35,8 @@ https://www.kaggle.com/karthika95/pedestrian-detection
 [Social Distance]
 
 We use the above trained model, and then refer to the practice on github to calculate the social distance. 
+  
 Please refer to https://github.com/lucasresck/deep-learning-and-applications.git
+
 Use the center point of the bounding box as the calculation basis, and then use the transfer matrix to adjust the calculation of the distance.
 
