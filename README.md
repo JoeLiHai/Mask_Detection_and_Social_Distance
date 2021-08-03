@@ -11,10 +11,13 @@ The sources of datasets and classes are show below.
 <Data source>
 —————————————
 [facemask]
+
 https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format
+  
 https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format
 
 [person]
+
 https://www.kaggle.com/karthika95/pedestrian-detection
 
 <classes>
